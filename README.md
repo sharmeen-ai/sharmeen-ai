@@ -87,6 +87,15 @@ I'm a passionate professional who combines creativity with technology to create 
 
 ---
 
+## 📁 My Projects
+
+### 🖥️ IT-HelpDesk-Management-System
+A Python-based IT Help Desk Management System developed for the CompTIA IT Fundamentals (ITF+) Final Project.
+
+🔗 [View Repository](https://github.com/sharmeen-ai/IT-HelpDesk-Management-System)
+
+---
+
 ## 🏆 Certifications
 
 🏅 Microsoft Certification
