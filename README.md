@@ -89,6 +89,22 @@ I'm a passionate professional who combines creativity with technology to create 
 
 ## 📁 My Projects
 
+### 🏠 House Price Prediction
+An end-to-end machine learning project that predicts house sale prices using Python and scikit-learn. Compares **Linear Regression** vs **Random Forest** models and automatically saves the best performer.
+
+**Highlights:**
+- Data preprocessing (2,919 records, 13 features)
+- Missing value handling & categorical encoding
+- Model comparison with comprehensive evaluation
+- Random Forest achieves **82% accuracy** (R² Score)
+- Average prediction error: ~$23k
+
+**Tech Stack:** Python • scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
+
+🔗 [View Repository](https://github.com/sharmeen-ai/house-price-prediction)
+
+---
+
 ### 🖥️ IT-HelpDesk-Management-System
 A Python-based IT Help Desk Management System developed for the CompTIA IT Fundamentals (ITF+) Final Project.
 
