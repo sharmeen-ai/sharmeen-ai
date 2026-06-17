@@ -108,6 +108,15 @@ An end-to-end machine learning project that predicts house sale prices using Pyt
 ### 🖥️ IT-HelpDesk-Management-System
 A Python-based IT Help Desk Management System developed for the CompTIA IT Fundamentals (ITF+) Final Project.
 
+**Highlights:**
+- Full-featured help desk ticketing system with user registration and ticket tracking
+- Intuitive command-line interface supporting ticket creation, viewing, and status management
+- Persistent file-based data storage (users & tickets) with automatic unique ID generation
+- Real-world IT support workflow implementation (Open → In Progress → Resolved)
+- Comprehensive documentation with visual screenshots and step-by-step usage guides
+- **Skills Demonstrated:** Help desk operations, IT troubleshooting, data persistence, file I/O operations
+
+
 🔗 [View Repository](https://github.com/sharmeen-ai/IT-HelpDesk-Management-System)
 
 ---
