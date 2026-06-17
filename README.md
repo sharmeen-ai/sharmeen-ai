@@ -1,148 +1,126 @@
+<div align="center">
+
 # 👋 Hi, I'm Sharmeen Ahsan
 
-✨ Content Writer | 🤖 AI Enthusiast | 📊 Data Analyst | 🐍 Python Learner | 🎨 Canva Designer
+### ✨ Content Writer | 🤖 AI Enthusiast | 📊 Data Analyst | 🐍 Python Developer | 🎨 Canva Designer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmeen-ahsan-68483a401/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmeen-ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmeens19@gmail.com)
+[![Upwork](https://img.shields.io/badge/Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
+
+</div>
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate professional who combines creativity with technology to create impactful content and innovative solutions.
+I'm a passionate professional who combines **creativity with technology** to create impactful content and innovative solutions.
 
-📝 Skilled in crafting engaging blogs, articles, website content, and marketing copy.
-
-🤖 Exploring Artificial Intelligence, Machine Learning, and Python automation to solve real-world problems.
-
-📊 Interested in data analysis, visualization, and turning raw data into meaningful insights.
-
-🎨 Designing eye-catching social media content and branding materials using Canva.
+- 📝 Skilled in crafting engaging blogs, articles, website content, and marketing copy
+- 🤖 Building AI & Machine Learning projects with Python
+- 📊 Turning raw data into meaningful insights through visualization
+- 🎨 Designing eye-catching social media content using Canva
+- 📍 Based in **Rawalpindi, Pakistan** | 💼 Open to **freelance work**
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-🔹 Building AI and Python projects
-
-🔹 Expanding my Content Writing Portfolio
-
-🔹 Learning Machine Learning & Data Analytics
-
-🔹 Growing my professional presence on GitHub and LinkedIn
-
----
-
-## 💼 Services I Offer
-
-✍️ Blog Writing
-
-📄 Article Writing
-
-🔍 SEO Content Writing
-
-🌐 Website Content
-
-🤖 AI & Python Projects
-
-📊 Data Analysis
-
-📈 Data Visualization
-
-🎨 Canva Designs
-
-📝 Creative Writing
+- 🔹 Building AI and Python projects
+- 🔹 Expanding my Content Writing Portfolio
+- 🔹 Learning Machine Learning & Data Analytics
+- 🔹 Growing my professional presence on GitHub and LinkedIn
 
 ---
 
 ## 🛠️ Skills
 
-### ✍️ Writing & Content Creation
-
-- Blog Writing
-- SEO Writing
-- Article Writing
-- Website Content
-- Copywriting
-- Creative Writing
-
 ### 🤖 AI & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 
-- Python
-- Machine Learning
-- AI Fundamentals
-- Automation Scripts
-- Object-Oriented Programming
-
-### 📊 Data Analysis
-
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Data Visualization
-
-### 🎨 Design Tools
-
-- Canva
-- Social Media Design
-- Presentation Design
+### ✍️ Content & Design
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 
 ---
 
-## 📁 My Projects
+## 📁 Featured Projects
 
 ### 🏠 House Price Prediction
-An end-to-end machine learning project that predicts house sale prices using Python and scikit-learn. Compares **Linear Regression** vs **Random Forest** models and automatically saves the best performer.
+> End-to-end ML project predicting house sale prices using Python and scikit-learn
 
-**Highlights:**
-- Data preprocessing (2,919 records, 13 features)
-- Missing value handling & categorical encoding
-- Model comparison with comprehensive evaluation
-- Random Forest achieves **82% accuracy** (R² Score)
-- Average prediction error: ~$23k
+- ✅ Compares **Linear Regression vs Random Forest**
+- ✅ Full sklearn Pipeline with preprocessing
+- ✅ 5-fold Cross Validation
+- ✅ Random Forest achieves **R² = 0.82 (82% accuracy)**
+- ✅ Average prediction error: ~$23,000
 
-**Tech Stack:** Python • scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
+**Tech:** `Python` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 🔗 [View Repository](https://github.com/sharmeen-ai/house-price-prediction)
 
 ---
 
-### 🖥️ IT-HelpDesk-Management-System
-A Python-based IT Help Desk Management System developed for the CompTIA IT Fundamentals (ITF+) Final Project.
+### 🖥️ IT HelpDesk Management System
+> Python-based IT Help Desk system — CompTIA ITF+ Final Project
 
-**Highlights:**
-- Full-featured help desk ticketing system with user registration and ticket tracking
-- Intuitive command-line interface supporting ticket creation, viewing, and status management
-- Persistent file-based data storage (users & tickets) with automatic unique ID generation
-- Real-world IT support workflow implementation (Open → In Progress → Resolved)
-- Comprehensive documentation with visual screenshots and step-by-step usage guides
-- **Skills Demonstrated:** Help desk operations, IT troubleshooting, data persistence, file I/O operations
+- ✅ Full ticketing system with user registration & tracking
+- ✅ Ticket lifecycle: Open → In Progress → Resolved
+- ✅ Persistent file-based data storage
+- ✅ Automatic unique ID generation
 
+**Tech:** `Python` `File I/O` `OOP` `CLI`
 
 🔗 [View Repository](https://github.com/sharmeen-ai/IT-HelpDesk-Management-System)
 
 ---
 
-## 🏆 Certifications
+## 💼 Services I Offer
 
-🏅 Microsoft Certification
-
-🏅 AI Learning with Python Certification
-
-🏅 CompTIA IT Fundamentals (ITF+) *(In Progress)*
+| ✍️ Writing | 🤖 AI & Data | 🎨 Design |
+|---|---|---|
+| Blog Writing | Python Projects | Canva Designs |
+| SEO Content | Machine Learning | Social Media |
+| Article Writing | Data Analysis | Presentations |
+| Website Content | Data Visualization | Branding |
+| Copywriting | Automation Scripts | Marketing Materials |
 
 ---
 
-## 🌍 Connect With Me
+## 🏆 Certifications
 
-💼 LinkedIn: https://www.linkedin.com/in/sharmeen-ahsan-68483a401/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6a4k16bPSZ%2BSwPeGvUk%2FmQ%3D%3D
+- 🏅 Microsoft Certification
+- 🏅 AI Learning with Python Certification
+- 🏅 CompTIA IT Fundamentals (ITF+) *(In Progress)*
 
-📧 Email: sharmeens19@gmail.com
+---
 
-🐙 GitHub: https://github.com/sharmeen-ai
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sharmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmeen-ai&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmeen-ai&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 💡 Personal Motto
 
-> "Creativity turns ideas into stories, and technology turns ideas into reality."
+> *"Creativity turns ideas into stories, and technology turns ideas into reality."*
 
-⭐ Thanks for visiting my profile!
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile! Feel free to reach out for collaborations or freelance work!** ⭐
+
+</div>
