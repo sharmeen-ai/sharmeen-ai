@@ -68,7 +68,7 @@ I'm a passionate professional who combines **creativity with technology** to cre
 ---
 
 ### 🖥️ IT HelpDesk Management System
-> Python-based IT Help Desk system — CompTIA ITF+ Final Project
+> Python-based IT Help Desk system 
 
 - ✅ Full ticketing system with user registration & tracking
 - ✅ Ticket lifecycle: Open → In Progress → Resolved
@@ -79,6 +79,22 @@ I'm a passionate professional who combines **creativity with technology** to cre
 
 🔗 [View Repository](https://github.com/sharmeen-ai/IT-HelpDesk-Management-System)
 
+---
+### 🧠 Fashion MNIST Image Classification (CNN)
+> End-to-end deep learning project classifying 28×28 grayscale clothing images into 10 categories using a CNN built with TensorFlow/Keras
+
+- ✅ Custom CNN with Conv2D, MaxPooling & Dropout layers
+- ✅ Early Stopping to prevent overfitting
+- ✅ Annotated Confusion Matrix + per-class Classification Report
+- ✅ Achieves 91% test accuracy across 10 clothing categories
+- ✅ Model saved as .h5 for reuse without retraining
+
+**Tech:** 'Python' 'TensorFlow' 'Keras' 'NumPy' 'Matplotlib' 'scikit-learn'
+
+🔗 [View Repository](https://github.com/sharmeen-ai/fashion-mnist-cnn)
+
+
+🔗 View Repository
 ---
 
 ## 💼 Services I Offer
