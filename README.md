@@ -80,6 +80,7 @@ I'm a passionate professional who combines **creativity with technology** to cre
 🔗 [View Repository](https://github.com/sharmeen-ai/IT-HelpDesk-Management-System)
 
 ---
+
 ### 🧠 Fashion MNIST Image Classification (CNN)
 > End-to-end deep learning project classifying 28×28 grayscale clothing images into 10 categories using a CNN built with TensorFlow/Keras
 
@@ -93,8 +94,6 @@ I'm a passionate professional who combines **creativity with technology** to cre
 
 🔗 [View Repository](https://github.com/sharmeen-ai/fashion-mnist-cnn)
 
-
-🔗 View Repository
 ---
 
 ## 💼 Services I Offer
