@@ -89,7 +89,7 @@ I'm a passionate professional who combines **creativity with technology** to cre
 - ✅ Achieves 91% test accuracy across 10 clothing categories
 - ✅ Model saved as .h5 for reuse without retraining
 
-**Tech:** 'Python' 'TensorFlow' 'Keras' 'NumPy' 'Matplotlib' 'scikit-learn'
+**Tech:** `Python` `TensorFlow` `Keras` `NumPy` `Matplotlib` `scikit-learn`
 
 🔗 [View Repository](https://github.com/sharmeen-ai/fashion-mnist-cnn)
 
