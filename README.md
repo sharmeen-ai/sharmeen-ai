@@ -96,6 +96,21 @@ I'm a passionate professional who combines **creativity with technology** to cre
 
 ---
 
+### 🧠 AI Knowledge Assistant
+> A Retrieval-Augmented Generation (RAG) web app — upload PDF/text documents and ask questions answered directly from their content, with sources cited.
+
+- ✅ End-to-end RAG pipeline: chunking, local embeddings, FAISS retrieval & LLM answering
+- ✅ Source-cited answers grounded strictly in uploaded document content
+- ✅ REST API (Flask) with upload, query, delete & clear endpoints
+- ✅ Supports .txt and .pdf uploads with real-time reindexing
+- ✅ Powered by Google Gemini for fast, low-cost inference
+
+  **Tech:** `Flask` `LangChain` `FAISS` `Google Gemini` `HuggingFace Embeddings` `scikit-learn`
+
+  🔗 [View Repository](https://github.com/sharmeen-ai/Capstone_Project)
+  
+---
+
 ## 💼 Services I Offer
 
 | ✍️ Writing | 🤖 AI & Data | 🎨 Design |
