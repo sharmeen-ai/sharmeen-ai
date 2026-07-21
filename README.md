@@ -127,7 +127,7 @@ I'm a passionate professional who combines **creativity with technology** to cre
 
 - 🏅 Microsoft Certification
 - 🏅 AI Learning with Python Certification
-- 🏅 CompTIA IT Fundamentals (ITF+) *(In Progress)*
+- 🏅 CompTIA IT Fundamentals (ITF+) 
 
 ---
 
